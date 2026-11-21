@@ -1,2 +1,3 @@
 *.o
 test_quicksort
+test_quicksort_omp
