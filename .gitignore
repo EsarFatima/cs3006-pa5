@@ -1,3 +1,3 @@
 *.o
 test_quicksort
-test_quicksort_omp
+test_quicksort_omplocalsort
