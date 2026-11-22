@@ -1,3 +1,5 @@
 *.o
+localsort
+oddeven
 test_quicksort
-test_quicksort_omplocalsort
+test_quicksort_omp
