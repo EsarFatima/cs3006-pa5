@@ -1,5 +1,5 @@
 ==== PA5 machine report: M1 ====
-Captured               2026-11-21 23:31:32 PKT
+Captured               2026-11-22 21:09:59 PKT
 Hostname               DESKTOP-RPDH2ER
 User                   esaar
 OS                     Ubuntu 24.04.3 LTS
@@ -16,7 +16,7 @@ L3 cache:                             6 MiB (1 instance)
 Physical cores         4
 ---- Memory ----
                total        used        free      shared  buff/cache   available
-Mem:            15Gi       1.6Gi        13Gi       3.4Mi       291Mi        13Gi
+Mem:            15Gi       1.4Gi        14Gi       3.4Mi       312Mi        14Gi
 ---- Power ----
 On AC power            yes
 ---- Network ----
